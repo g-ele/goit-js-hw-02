@@ -1,0 +1,1 @@
+return title.toLowerCase().split(" ").join("-");
